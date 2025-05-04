@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7d27e8f-1e69-4fe5-a969-c2f7f0ec2680" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/score.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/score.py" beforeDir="false" afterPath="$PROJECT_DIR$/score.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -80,7 +81,8 @@
       <updated>1746197596965</updated>
       <workItem from="1746197598053" duration="4190000" />
       <workItem from="1746240292643" duration="12367000" />
-      <workItem from="1746327438271" duration="110000" />
+      <workItem from="1746327438271" duration="588000" />
+      <workItem from="1746349793498" duration="1254000" />
     </task>
     <servers />
   </component>
